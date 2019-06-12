@@ -1,7 +1,7 @@
 # Evaluación y documentación de HelpSpot
 
 ## Instalación HelpSpot
-1) Empezamos con la instalación del HelpSpot, seleccionamos servidor Apache
+1) Empezamos con la instalación de HelpSpot, seleccionamos servidor Apache
 
 ![imagen](Helpspot/Captura.JPG)
 
