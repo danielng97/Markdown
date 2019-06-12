@@ -2,5 +2,5 @@
 
 ## Empezamos con la instalación del HelpSpot, seleccionamos servidor Apache
 
-![imagen](Helpspot/Captura.jpg)
+![imagen](Helpspot/Captura.JPG)
 
