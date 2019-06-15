@@ -29,3 +29,12 @@
 
 ![imagen](Helpspot/Captura7.JPG)
 
+### Uso del HelpSpot
+HelpSpot es una solución de servicio al cliente que cuenta con todas las herramientas que necesita para ofrecer una experiencia de servicio al cliente
+Te permite ver la prioridad de los correos.
+
+![imagen](Helpspot/Captura8.JPG)
+
+Permite ver gráficas del tiempo de respuesta en el tiempo
+
+![imagen](Helpspot/Captura9.JPG)
